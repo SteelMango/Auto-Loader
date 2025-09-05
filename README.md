@@ -1,5 +1,5 @@
 # Auto-Loader by SteelMango @ Github
-A script to automatically load Helldiver 2 equiptment, to save the time scrolling for the right stratagems and spend your time on Tiktok while the others continue to search for theirs.
+A script to automatically load Helldiver 2 equiptment, to save the time scrolling for the right stratagems and spend your time on Tiktok while your comrades continue to search for theirs.
 
 HellDivers 2 Version: 1.004.001v
 
