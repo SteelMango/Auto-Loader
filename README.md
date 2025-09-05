@@ -3,12 +3,12 @@ A script to automatically load Helldiver 2 equiptment, to save the time scrollin
 
 HellDivers 2 Version: 1.004.001v
 
-## Dependancies 
+## 💻 Dependancies 
 ```
 pip install pydirectinput
 ```
 
-## Steps
+## 🪜 Steps
 1. If your current periperals have a macro function, e.g. Logitech keyboards and mice can assign a button to run a macro, set Auto_Loadoout.v2.exe as the macro.
 2. Open Helldivers 2
 3. Select a mission and head to the drop pod
