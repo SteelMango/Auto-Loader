@@ -13,10 +13,13 @@ HellDivers 2 Version: 1.004.001v
 
 ## ⚠️ Known Issues 
 [] Stratagem positioning changes when a new stratagem is added, this means the script needs to adapt to the changes
+
 [] The loadout is pre-set to my currrent loadout, a later version will be added to allow users to set their own loadout
 
 ## 🛣️ Roadmap
 [] Create a GUI to allow easy implementation
+
 [] Find a way to adapt to stratagem positioning changes (image recognition software?)
+
 [] Change loadout in GUI > save to local >  Create a new EXE 
 
